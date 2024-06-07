@@ -85,6 +85,14 @@ let products = [
     description:
       "Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.",
   },
+  {
+    id: 12,
+    name: "Veal - Liver",
+    price: 1295,
+    image: "http://dummyimage.com/350x350.png/dddddd/000000",
+    description:
+      "Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.",
+  },
 ];
 
 const app = express();
